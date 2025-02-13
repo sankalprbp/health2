@@ -5,7 +5,9 @@
 <h1 align="center">
   👉<a href="https://sujitmahapatra.github.io/AI-Healthcare-Appointment-System" target="_blank" rel="noopener noreferrer">Live Demo</a>
 </h1>
+<i><b>For Admin Panel Access</b> - Email: admin@gmail.com | Password: admin@123</i>
 
+---
 
 ## ✨ Features  
 
